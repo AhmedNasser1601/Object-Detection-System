@@ -1,5 +1,3 @@
-# Object Detection System
-
 | ***Scene*** | ***Yolo_v3 Detection*** |
 | :-: | :-: |
 | <img src="scenarios/1.jpg"> | <img src="scenarios/1.png"> |
